@@ -1297,3 +1297,5 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 
 [(Back to top)](#table-of-contents)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/amazon">
